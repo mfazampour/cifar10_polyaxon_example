@@ -1,4 +1,1 @@
-torch
-torchvision
-rhea==0.4.5
-polyaxon-client==0.4.4
+polyaxon-client==0.6.0
